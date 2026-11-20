@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Circle Assistant</string>
+    <string name="accessibility_description">Выполняет нарисованный пользователем круговой жест по заданным координатам.</string>
+</resources>
